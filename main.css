@@ -1,0 +1,17 @@
+body {
+    color: #807970;
+    font-family: georgia,serif;
+    text-align: left;
+    margin-top: 0 0 0 0;
+}
+body {
+    background: url("http://hardhat.mozilla.net/img/tignish/template/background-outages.jpg") repeat-x scroll 50% 0 #FFFFFF;
+}
+
+#notice {
+    color: #807970;
+    font-family: georgia,serif;
+    text-align: right;
+    margin-top: 200px;
+    margin-right: 50px;
+}
