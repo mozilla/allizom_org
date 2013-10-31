@@ -1,8 +1,12 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     color: #807970;
     font-family: georgia,serif;
     text-align: left;
-    margin-top: 0 0 0 0;
 }
 body {
     background: url("http://hardhat.mozilla.net/img/tignish/template/background-outages.jpg") repeat-x scroll 50% 0 #FFFFFF;
